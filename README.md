@@ -1,5 +1,8 @@
-## Hi there 👋
-## fs
+## Hi there 👋 My name is ✨ Manuel ✨
+  - I am studing in Universidad nacional de Colombia
+  - Kinda dumb but constantly improving
+  - K-drama lover 
+## - 🌱 I’m currently learning AWS and working as a zoho developer
 <!--
 **Alejonavas24/Alejonavas24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

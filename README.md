@@ -1,6 +1,5 @@
 ## Hi there 👋 My name is  Manuel 
   - I am studing in Universidad nacional de Colombia
-  - Kinda dumb but constantly improving
   - K-drama lover 
 ## - 🌱 I’m currently learning AWS and working as a zoho developer
 <!--
